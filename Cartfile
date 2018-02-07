@@ -1,1 +1,2 @@
 github "facebook/SocketRocket" "master"
+github "matthewcheok/JSONCodable" ~> 3.0.1
